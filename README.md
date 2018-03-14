@@ -1,5 +1,5 @@
 # Catalog
-## 1. *R/ API* :
+1. *R/ API* :
 ### [Web Scraping and Visualize Market Value & Area Data From property.phila.gov data](https://github.com/fangnandu/Web-Scraping-House-Value-in-Rittenhouse-Philadelphia)
 2. *R- Animated GIF*
 Animated-Choropleth-Map--Renter-Behavior—Philadelphia
